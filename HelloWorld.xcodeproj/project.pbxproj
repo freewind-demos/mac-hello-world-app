@@ -1,0 +1,11 @@
+// !$*UTF8*$!
+{
+    archiveVersion = 1;
+    classes = {
+    };
+    objectVersion = 56;
+    objects = {
+        // 基本项目配置
+    };
+    rootObject = YOURPROJECTID /* Project object */;
+} 
